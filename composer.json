@@ -1,0 +1,15 @@
+{
+    "name": "admin/op",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Op\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dangkhoa2x3",
+            "email": "dangkhoa1119991@gmail.com"
+        }
+    ],
+    "require": {}
+}
